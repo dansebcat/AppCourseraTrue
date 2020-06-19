@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meine Bewerbung</string>
+    <string name="btn_1">Willkommen</string>
+    <string name="btn_2">Eintreten </string>
+</resources>
